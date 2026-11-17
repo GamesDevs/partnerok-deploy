@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /goto/
+Disallow: /*?*search_source=
+Disallow: /*&search_source=
+Disallow: /*&lr=
+Disallow: /*&lr=*
+Disallow: /*&source=tabbar
+Disallow: /contacts
+Disallow: /404.html
+
+Sitemap: https://partnerok.top/sitemap.xml
+Host: https://partnerok.top/
